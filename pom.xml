@@ -45,7 +45,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <io.snice.testing.version>0.0.4</io.snice.testing.version>
+        <io.snice.testing.version>0.0.5</io.snice.testing.version>
 
         <maven.compiler.release>17</maven.compiler.release>
 
