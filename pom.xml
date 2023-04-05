@@ -3,20 +3,11 @@
 
 
     <modelVersion>4.0.0</modelVersion>
-    <prerequisites>
-        <maven>3.0.4</maven>
-    </prerequisites>
-
-    <parent>
-        <groupId>org.sonatype.oss</groupId>
-        <artifactId>oss-parent</artifactId>
-        <version>7</version>
-    </parent>
 
     <name>Snice Demo</name>
     <groupId>io.snice</groupId>
     <artifactId>snice-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>Snice Demo - Simple demo for running e2e tests using Snice</description>
     <licenses>
