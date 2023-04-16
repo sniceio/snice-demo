@@ -11,7 +11,6 @@ import static io.snice.testing.http.check.HttpCheckSupport.status;
 public class Http201 extends Simulation {
 
     {
-
         final var http = http().baseUrl("http://local.honeypot.snice.io:8080");
         final var get = get("/happy").check(status().is(200));
         final var scenario = scenario("Simple GET").execute(get);
