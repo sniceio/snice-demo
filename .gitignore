@@ -19,6 +19,9 @@ dependency-reduced-pom.xml
 *.war
 *.ear
 
+lib_user
+Makefile
+
 
 # Backup files
 *.bak
