@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
 
+
     <name>Snice Demo</name>
     <groupId>io.snice</groupId>
     <artifactId>snice-demo</artifactId>
